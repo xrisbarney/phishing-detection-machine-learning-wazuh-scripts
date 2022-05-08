@@ -8,8 +8,8 @@
 - [@kahlflekzy](https://github.com/kahlflekzy) assisted with building the machine learning model and optimizing the URL extraction script.
 
 ## Resources used
-- [shreyagopal](https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques/blob/master/URL%20Feature%20Extraction.ipynb): We built on their URL features extraction script to create our own features extraction script.
-- [olafhartong](https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml): To capture victim endpoint logs.
+- [Shreyagopal URL feature extraction](https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques/blob/master/URL%20Feature%20Extraction.ipynb): We built on their URL features extraction script to create our own features extraction script.
+- [Olafhartong's sysmon config](https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml): To capture victim endpoint logs.
 
 ## Tools used
 - [Wazuh](https://github.com/wazuh/wazuh): An open source SIEM and XDR. This was used for detecting when a URL is opened, and its integration script subsequently determined if the URL was phishing or not.
