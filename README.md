@@ -22,4 +22,5 @@
 - Upload Wazuh detection rules.
 - Add Wazuh integration directions.
 - Add a proper description about the project.
+- Group the files according to their functions and upload the datasets used. i.e url extraction scripts, wazuh files e.t.c.
 
