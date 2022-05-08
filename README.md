@@ -8,7 +8,7 @@
 - [@kahlflekzy](https://github.com/kahlflekzy) assisted with building the machine learning model and optimizing the URL extraction script.
 
 ## Resources used
-- [shreyagopal](https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques/blob/master/URL%20Feature%20Extraction.ipynb): We built on his URL features extraction script to create our own features extraction script.
+- [shreyagopal](https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques/blob/master/URL%20Feature%20Extraction.ipynb): We built on their URL features extraction script to create our own features extraction script.
 - [olafhartong](https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml): To capture victim endpoint logs.
 
 ## Tools used
