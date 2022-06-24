@@ -6,6 +6,8 @@
 - [@Spades0](https://github.com/Spades0) co-author.
 - [@xrisbarney](https://github.com/xrisbarney) co-author.
 - [@kahlflekzy](https://github.com/kahlflekzy) assisted with building the machine learning model and optimizing the URL extraction script.
+- Nadezhda
+- Ahmed
 
 ## Resources used
 - [Shreyagopal URL feature extraction](https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques/blob/master/URL%20Feature%20Extraction.ipynb): We built on their URL features extraction script to create our own features extraction script.
