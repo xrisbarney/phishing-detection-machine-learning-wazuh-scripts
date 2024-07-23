@@ -19,10 +19,4 @@
 - [Phishtank](https://phishtank.org/): The phishing blacklist API used.
 - [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon): For advanced logging.
 
-## Todo
-- Fine tune Sysmon config to pick all URLs opened regardless of browser used, mode of opening e.t.c
-- Upload Wazuh detection rules.
-- Add Wazuh integration directions.
-- Add a proper description about the project.
-- Group the files according to their functions and upload the datasets used. i.e url extraction scripts, wazuh files e.t.c.
 
